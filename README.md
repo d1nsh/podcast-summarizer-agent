@@ -1,3 +1,5 @@
+Utility to create pdf summaries of podcasts
+
 ## Instructions for running the podcast summarizer
 ## Requires Python 3.9 or higher
 
