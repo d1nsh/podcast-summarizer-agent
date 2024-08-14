@@ -4,6 +4,6 @@
 pip install -r requirements.txt
 
 
-python podcast-summarizer.py <podcast-url>
+python podcast-summarizer.py [podcast-url]
 
 ## Currently only supports apple podcasts
